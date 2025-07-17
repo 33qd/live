@@ -278,7 +278,3 @@
 	font-size: 14px;
 }
 
-/* 全局字体色覆盖 */
-* {
-	color: #000 !important;
-}
